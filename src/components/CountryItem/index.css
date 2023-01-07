@@ -1,0 +1,28 @@
+.country-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  border-bottom: 1px solid #cbd5e1;
+  border-left: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+  margin-left: 0px;
+}
+.country-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.country-status {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.visit-button {
+  height: 30px;
+  width: 70px;
+  color: #ffffff;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 5px;
+}
